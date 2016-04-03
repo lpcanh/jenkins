@@ -1,0 +1,10 @@
+workflow-aggregator:1.15
+pipeline-stage-view:1.0
+multi-branch-project-plugin:0.4.1
+cloudbees-bitbucket-branch-source:1.4
+sonar:2.3
+config-file-provider:2.10.1
+maven-plugin:2.12.1
+credentials:1.26
+ansible:0.4
+artifactory:2.4.7
